@@ -1,0 +1,1757 @@
+[ 2015-12-07T11:44:47+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004910s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004986s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000361s ]
+
+[ 2015-12-07T11:44:47+08:00 ] 14.17.18.152 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005390s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005450s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000100s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000398s ]
+
+[ 2015-12-07T11:46:34+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000538s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005043s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005098s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000392s ]
+
+[ 2015-12-07T11:48:42+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005971s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006046s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000403s ]
+
+[ 2015-12-07T11:48:42+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000765s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006970s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007041s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000113s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000452s ]
+
+[ 2015-12-07T11:48:42+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006429s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006499s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000404s ]
+
+[ 2015-12-07T11:48:42+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006069s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006139s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000097s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000398s ]
+
+[ 2015-12-07T11:48:42+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006503s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006568s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000345s ]
+
+[ 2015-12-07T11:48:42+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000846s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006278s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000173s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000459s ]
+
+[ 2015-12-07T11:48:42+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005539s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005604s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000444s ]
+
+[ 2015-12-07T11:48:42+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005497s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005564s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000341s ]
+
+[ 2015-12-07T11:48:42+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006028s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006097s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000099s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000387s ]
+
+[ 2015-12-07T11:48:42+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005595s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005666s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000104s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000348s ]
+
+[ 2015-12-07T12:31:58+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004940s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004996s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000367s ]
+
+[ 2015-12-07T12:32:51+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004976s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005035s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000363s ]
+
+[ 2015-12-07T12:33:00+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005058s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2015-12-07T12:33:01+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005454s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005510s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000326s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000379s ]
+
+[ 2015-12-07T12:38:08+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004890s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004947s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000093s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000384s ]
+
+[ 2015-12-07T12:39:56+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005513s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005581s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000097s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000440s ]
+
+[ 2015-12-07T12:40:10+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005386s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005445s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2015-12-07T12:40:22+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000634s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005517s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005578s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2015-12-07T12:41:37+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005994s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006065s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2015-12-07T12:41:37+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000339s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2015-12-07T12:41:41+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005732s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005791s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000399s ]
+
+[ 2015-12-07T12:41:41+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000476s ]
+
+[ 2015-12-07T12:41:43+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005536s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000393s ]
+
+[ 2015-12-07T12:41:43+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2015-12-07T12:41:44+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005604s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005703s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000097s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000372s ]
+
+[ 2015-12-07T12:41:44+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000441s ]
+
+[ 2015-12-07T12:42:50+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005440s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005495s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000093s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000359s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000412s ]
+
+[ 2015-12-07T12:43:38+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005906s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005968s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000370s ]
+
+[ 2015-12-07T12:43:38+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2015-12-07T12:43:45+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000545s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005141s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005195s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000380s ]
+
+[ 2015-12-07T12:43:45+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2015-12-07T12:43:48+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000161s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007126s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007202s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000516s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000606s ]
+
+[ 2015-12-07T12:43:48+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000444s ]
+
+[ 2015-12-07T12:43:49+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005785s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005843s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000093s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000364s ]
+
+[ 2015-12-07T12:43:49+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000440s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000537s ]
+
+[ 2015-12-07T12:44:18+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html?
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2015-12-07T12:44:18+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html??
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000396s ]
+
+[ 2015-12-07T12:44:21+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html???
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000391s ]
+
+[ 2015-12-07T12:44:21+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html????
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000410s ]
+
+[ 2015-12-07T12:44:26+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.000521s ]
+SQL: SELECT * FROM `wx_user` WHERE ( `uemail` = '2632807692@qq.com' ) LIMIT 1   [ RunTime:0.000295s ]
+NOTIC: [8] Undefined index: uimage /var/www/html/weixin/Application/Home/Controller/IndexController.class.php 第 100 行.
+
+[ 2015-12-07T12:44:26+08:00 ] 220.249.99.189 /weixin/index.php/Home/Main
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004633s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004695s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000461s ]
+
+[ 2015-12-07T12:44:44+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000561s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005522s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005582s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000112s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2015-12-07T12:44:45+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000424s ]
+
+[ 2015-12-07T12:44:47+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000694s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005930s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005993s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000093s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000396s ]
+
+[ 2015-12-07T12:44:47+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000555s ]
+
+[ 2015-12-07T12:44:49+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005261s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005320s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000400s ]
+
+[ 2015-12-07T12:44:49+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000355s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2015-12-07T12:44:50+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005660s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000361s ]
+
+[ 2015-12-07T12:44:50+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2015-12-07T12:44:51+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005408s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005468s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000110s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000326s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000380s ]
+
+[ 2015-12-07T12:45:00+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000544s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005225s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005283s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000358s ]
+
+[ 2015-12-07T12:45:01+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000339s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2015-12-07T12:45:18+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+
+[ 2015-12-07T12:45:18+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+
+[ 2015-12-07T12:45:19+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+
+[ 2015-12-07T12:45:19+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+
+[ 2015-12-07T12:45:22+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html?
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000376s ]
+
+[ 2015-12-07T12:45:27+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000545s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.000503s ]
+SQL: SELECT * FROM `wx_user` WHERE ( `uemail` = 'eidian' ) LIMIT 1   [ RunTime:0.000230s ]
+
+[ 2015-12-07T12:45:27+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+
+[ 2015-12-07T12:45:38+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+
+[ 2015-12-07T12:45:38+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+
+[ 2015-12-07T12:45:40+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html??
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000545s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000489s ]
+
+[ 2015-12-07T12:45:46+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.000608s ]
+SQL: SELECT * FROM `wx_user` WHERE ( `uemail` = 'cqwzzf@126.com' ) LIMIT 1   [ RunTime:0.000264s ]
+NOTIC: [8] Undefined index: uimage /var/www/html/weixin/Application/Home/Controller/IndexController.class.php 第 100 行.
+
+[ 2015-12-07T12:45:46+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000599s ]
+
+[ 2015-12-07T12:45:55+08:00 ] 220.249.99.189 /weixin/index.php/Home/Main
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004502s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004562s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000385s ]
+
+[ 2015-12-07T12:45:58+08:00 ] 220.249.99.189 /weixin/index.php/Home/Main
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004122s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004179s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000133s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000375s ]
+
+[ 2015-12-07T12:45:59+08:00 ] 220.249.99.189 /weixin/index.php/Home/Main
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000646s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004564s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004630s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000359s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2015-12-07T12:46:00+08:00 ] 220.249.99.189 /weixin/index.php/Home/Main
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004477s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004537s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000403s ]
+
+[ 2015-12-07T12:46:02+08:00 ] 220.249.99.189 /weixin/index.php/Home/Main
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000817s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007446s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007536s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000576s ]
+
+[ 2015-12-07T12:46:02+08:00 ] 220.249.99.189 /weixin/index.php/Home/Main
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004307s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004364s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000421s ]
+
+[ 2015-12-07T12:46:03+08:00 ] 220.249.99.189 /weixin/index.php/Home/Main
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004121s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004177s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000350s ]
+
+[ 2015-12-07T12:46:05+08:00 ] 220.249.99.189 /weixin/index.php/Home/Main
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000541s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004530s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004588s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000093s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000396s ]
+
+[ 2015-12-07T12:46:09+08:00 ] 220.249.99.189 /weixin/index.php/Home/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004843s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004900s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000209s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000427s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000498s ]
+
+[ 2015-12-07T12:57:21+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000565s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005447s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005510s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000364s ]
+
+[ 2015-12-07T12:57:21+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000330s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2015-12-07T12:57:42+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.000556s ]
+SQL: SELECT * FROM `wx_user` WHERE ( `uemail` = 'cqwzzf@126.com' ) LIMIT 1   [ RunTime:0.000248s ]
+
+[ 2015-12-07T12:57:42+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+
+[ 2015-12-07T12:58:03+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+
+[ 2015-12-07T12:58:03+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000565s ]
+
+[ 2015-12-07T12:58:06+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000565s ]
+
+[ 2015-12-07T12:58:08+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html?
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000400s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000491s ]
+
+[ 2015-12-07T12:58:18+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.000520s ]
+SQL: SELECT * FROM `wx_user` WHERE ( `uemail` = 'cqwzzf@126.com' ) LIMIT 1   [ RunTime:0.000243s ]
+
+[ 2015-12-07T12:58:24+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+
+[ 2015-12-07T12:58:24+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+
+[ 2015-12-07T12:58:28+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html??
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000330s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000394s ]
+
+[ 2015-12-07T12:58:35+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.000548s ]
+SQL: SELECT * FROM `wx_user` WHERE ( `uemail` = 'cqwzzf@126.com' ) LIMIT 1   [ RunTime:0.000322s ]
+
+[ 2015-12-07T12:58:44+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html???
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2015-12-07T12:58:53+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/dologin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000550s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.000548s ]
+SQL: SELECT * FROM `wx_user` WHERE ( `uemail` = 'cqwzzf@126.com' ) LIMIT 1   [ RunTime:0.000282s ]
+
+[ 2015-12-07T13:15:27+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004938s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004994s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000370s ]
+
+[ 2015-12-07T13:15:27+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000397s ]
+
+[ 2015-12-07T13:35:33+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005110s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005186s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000362s ]
+
+[ 2015-12-07T13:35:33+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000374s ]
+
+[ 2015-12-07T15:50:28+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/verify_c.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000375s ]
+
+[ 2015-12-07T15:50:30+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005248s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005304s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000372s ]
+
+[ 2015-12-07T15:50:40+08:00 ] 112.64.235.89 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000147s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005380s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005451s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2015-12-07T15:50:40+08:00 ] 61.151.186.144 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000544s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005699s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005764s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000112s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000439s ]
+
+[ 2015-12-07T15:50:41+08:00 ] 180.153.81.163 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000616s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004752s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004807s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000360s ]
+
+[ 2015-12-07T15:51:32+08:00 ] 223.104.20.89 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004810s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004867s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000376s ]
+
+[ 2015-12-07T15:52:23+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005272s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005328s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000387s ]
+
+[ 2015-12-07T17:11:33+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005235s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005293s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000093s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000363s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000473s ]
+
+[ 2015-12-07T17:13:01+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000201s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005714s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005772s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000356s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2015-12-07T17:13:02+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004868s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004925s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000359s ]
+
+[ 2015-12-07T17:13:02+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005041s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005098s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000354s ]
+
+[ 2015-12-07T17:13:02+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000577s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005521s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005584s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000290s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000338s ]
+
+[ 2015-12-07T17:13:02+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004815s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004871s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000109s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000362s ]
+
+[ 2015-12-07T17:13:02+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004742s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004818s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000343s ]
+
+[ 2015-12-07T17:13:02+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005174s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005230s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000355s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000410s ]
+
+[ 2015-12-07T17:13:02+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004755s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004811s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000370s ]
+
+[ 2015-12-07T17:13:02+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000545s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004843s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004919s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000346s ]
+
+[ 2015-12-07T17:13:32+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004964s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005020s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000348s ]
+
+[ 2015-12-07T17:29:33+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000544s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005410s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005467s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000408s ]
+
+[ 2015-12-07T17:32:14+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005221s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005288s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000368s ]
+
+[ 2015-12-07T17:33:19+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004726s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004783s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000341s ]
+
+[ 2015-12-07T17:33:37+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000547s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005089s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005152s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000404s ]
+
+[ 2015-12-07T17:37:19+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004787s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004844s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000345s ]
+
+[ 2015-12-07T17:37:34+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000544s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004902s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004957s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000362s ]
+
+[ 2015-12-07T17:38:39+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000565s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005059s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000370s ]
+
+[ 2015-12-07T17:44:22+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004863s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004919s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000344s ]
+
+[ 2015-12-07T17:45:58+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004882s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004958s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000378s ]
+
+[ 2015-12-07T17:46:34+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004765s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004822s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000341s ]
+
+[ 2015-12-07T17:48:03+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000547s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004842s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004898s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000133s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000342s ]
+
+[ 2015-12-07T17:48:05+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000157s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005087s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005145s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000326s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000382s ]
+
+[ 2015-12-07T17:48:51+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005059s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005115s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000365s ]
+
+[ 2015-12-07T17:50:43+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004915s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004970s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000133s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000332s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000381s ]
+
+[ 2015-12-07T17:50:44+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005177s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005234s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000385s ]
+
+[ 2015-12-07T17:53:25+08:00 ] 220.249.99.189 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004844s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004904s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000359s ]
+
+[ 2015-12-07T18:29:09+08:00 ] 220.249.99.189 /weixin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005821s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005882s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000107s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000405s ]
+
+[ 2015-12-07T21:21:52+08:00 ] 117.136.81.149 /weixin/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005484s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005544s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000405s ]
+

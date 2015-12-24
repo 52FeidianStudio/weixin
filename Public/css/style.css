@@ -1,0 +1,100 @@
+#register,
+#login{
+    width:100%;
+    min-height: 631px;
+    background: url(../img/slider-item-1.jpg) no-repeat center center;
+}
+.register,
+.login{
+    width:400px;
+    margin:65px  auto;
+}
+@media (max-width: 560px) {
+      .register,
+      .login{
+          width:90%;
+      }
+    }
+.register h1,
+.login h1{
+    color:#fff;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.form-group{
+    position: relative;
+    margin-bottom: 16px;
+}
+.form-group input{
+    height: 46px;
+    font-size: 14px;
+    text-indent: 2.6em;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 0px 12px;
+}
+.form-left{
+    width:60%;
+    float: left;
+}
+.check{
+    width:100%;
+    text-align: center;
+    color:#fff;
+    margin:15px 0;
+}
+.text-left{
+    width:100%;
+    color:#fff;
+    margin:15px 0;
+}
+.check a{
+    color:#fff;
+    font-size: 14px;
+}
+.form-right{
+    width:35%;
+    height: 45px;
+    line-height: 45px;
+    color:#fff;
+    text-align: center;
+    border-radius: 4px;
+    float: right;
+    background:#82BA26;
+}
+.form-right .code{
+    width:100%;
+    height: 45px;
+    border-radius:4px;
+}
+#login .btn,
+#register .btn{
+  background: #82BA26;
+  border:1px solid #82BA26;
+  height: 46px;
+  font-size: 1.2em;
+  color: #fff;
+}
+#login .btn:hover,
+#register .btn:hover{
+  background: #9ce229;
+  border:1px solid #9ce229;
+  color:#fff;
+}
+.icon{
+    cursor: default;
+    position: absolute;
+    color: #808080;
+    opacity: 0.5;
+    top: 0px;
+    margin: 0px;
+    width: 2em;
+    height: 100%;
+    text-align: center;
+    box-sizing: border-box;
+    transition: opacity 0.3s ease-out 0s;
+    right: auto;
+    left: 1px;
+    border-radius: 0.3125em 0px 0px 0.3125em;
+    font-size: 1.8em;
+    line-height: 47px;
+}
